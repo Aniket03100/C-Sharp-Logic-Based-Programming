@@ -1,10 +1,10 @@
-﻿//LBP1
+﻿// LBP1
 
-//Program to check whether the given number is even or odd number
+// Program to check whether the given number is even or odd number
 
-//input-----> an integer number n
-//contraint-> n>=0
-//output----> even or odd or invalid
+// input-----> an integer number n
+// contraint-> n>=0
+// output----> even or odd or invalid
 
 
 
