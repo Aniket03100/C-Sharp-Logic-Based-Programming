@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weird_NotWeird", "Weird_Not
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeapYear_or_NotLeapYear", "LeapYear_or_NotLeapYear\LeapYear_or_NotLeapYear.csproj", "{14C9A0DC-9116-4D1F-A722-3B976B45AA90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sales_Range", "Sales_Range\Sales_Range.csproj", "{BC47BCC2-0344-4612-8776-1B4314DDB6C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales_Range", "Sales_Range\Sales_Range.csproj", "{BC47BCC2-0344-4612-8776-1B4314DDB6C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Increment_Number", "Increment_Number\Increment_Number.csproj", "{8C2042B3-4A3F-4590-B56F-1E9C06C25C3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{BC47BCC2-0344-4612-8776-1B4314DDB6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC47BCC2-0344-4612-8776-1B4314DDB6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC47BCC2-0344-4612-8776-1B4314DDB6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2042B3-4A3F-4590-B56F-1E9C06C25C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2042B3-4A3F-4590-B56F-1E9C06C25C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2042B3-4A3F-4590-B56F-1E9C06C25C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2042B3-4A3F-4590-B56F-1E9C06C25C3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
