@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coffee_Cups", "Coffee_Cups\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extract_Digits", "Extract_Digits\Extract_Digits.csproj", "{F8EA8CF1-3ACD-48AC-87A4-E289F26754D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extract_Digits_then_Sum", "Extract_Digits_then_Sum\Extract_Digits_then_Sum.csproj", "{DF50BC4D-269A-4E29-9301-88273D353666}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extract_Digits_then_Sum", "Extract_Digits_then_Sum\Extract_Digits_then_Sum.csproj", "{DF50BC4D-269A-4E29-9301-88273D353666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_of_Even_Digits", "Sum_of_Even_Digits\Sum_of_Even_Digits.csproj", "{237FCCA2-C134-437F-9D2F-B96A06375451}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{DF50BC4D-269A-4E29-9301-88273D353666}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF50BC4D-269A-4E29-9301-88273D353666}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF50BC4D-269A-4E29-9301-88273D353666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237FCCA2-C134-437F-9D2F-B96A06375451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237FCCA2-C134-437F-9D2F-B96A06375451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237FCCA2-C134-437F-9D2F-B96A06375451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237FCCA2-C134-437F-9D2F-B96A06375451}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
