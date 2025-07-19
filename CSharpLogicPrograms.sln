@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extract_Digits", "Extract_D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extract_Digits_then_Sum", "Extract_Digits_then_Sum\Extract_Digits_then_Sum.csproj", "{DF50BC4D-269A-4E29-9301-88273D353666}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_of_Even_Digits", "Sum_of_Even_Digits\Sum_of_Even_Digits.csproj", "{237FCCA2-C134-437F-9D2F-B96A06375451}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum_of_Even_Digits", "Sum_of_Even_Digits\Sum_of_Even_Digits.csproj", "{237FCCA2-C134-437F-9D2F-B96A06375451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_of_Prime_Digits", "Sum_of_Prime_Digits\Sum_of_Prime_Digits.csproj", "{57F81668-556C-42C9-A00E-196FF3384F75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_of_Odd_Digits", "Sum_of_Odd_Digits\Sum_of_Odd_Digits.csproj", "{C9FF18F8-46E2-44FC-BDCD-636C15F2C8CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{237FCCA2-C134-437F-9D2F-B96A06375451}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{237FCCA2-C134-437F-9D2F-B96A06375451}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{237FCCA2-C134-437F-9D2F-B96A06375451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F81668-556C-42C9-A00E-196FF3384F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F81668-556C-42C9-A00E-196FF3384F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F81668-556C-42C9-A00E-196FF3384F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F81668-556C-42C9-A00E-196FF3384F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9FF18F8-46E2-44FC-BDCD-636C15F2C8CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9FF18F8-46E2-44FC-BDCD-636C15F2C8CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9FF18F8-46E2-44FC-BDCD-636C15F2C8CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9FF18F8-46E2-44FC-BDCD-636C15F2C8CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
