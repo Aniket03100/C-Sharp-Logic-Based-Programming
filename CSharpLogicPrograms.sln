@@ -3,27 +3,27 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EvenOrOdd", "EvenOrOdd\EvenOrOdd.csproj", "{14196407-F378-408E-9052-9FCF8C1EE058}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LBP1_EvenOrOdd", "EvenOrOdd\LBP1_EvenOrOdd.csproj", "{14196407-F378-408E-9052-9FCF8C1EE058}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weird_NotWeird", "Weird_NotWeird\Weird_NotWeird.csproj", "{837F99D2-EA15-4B72-8203-C77899738BCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LBP2_Weird_NotWeird", "Weird_NotWeird\LBP2_Weird_NotWeird.csproj", "{837F99D2-EA15-4B72-8203-C77899738BCB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeapYear_or_NotLeapYear", "LeapYear_or_NotLeapYear\LeapYear_or_NotLeapYear.csproj", "{14C9A0DC-9116-4D1F-A722-3B976B45AA90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LBP3_LeapYear_or_NotLeapYear", "LeapYear_or_NotLeapYear\LBP3_LeapYear_or_NotLeapYear.csproj", "{14C9A0DC-9116-4D1F-A722-3B976B45AA90}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sales_Range", "Sales_Range\Sales_Range.csproj", "{BC47BCC2-0344-4612-8776-1B4314DDB6C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LBP4_Sales_Range", "Sales_Range\LBP4_Sales_Range.csproj", "{BC47BCC2-0344-4612-8776-1B4314DDB6C0}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Increment_Number", "Increment_Number\Increment_Number.csproj", "{8C2042B3-4A3F-4590-B56F-1E9C06C25C3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LBP5_Increment_Number", "Increment_Number\LBP5_Increment_Number.csproj", "{8C2042B3-4A3F-4590-B56F-1E9C06C25C3C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coffee_Cups", "Coffee_Cups\Coffee_Cups.csproj", "{E8A07A98-D38C-43B4-9151-A5163E43F662}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LBP6_Coffee_Cups", "Coffee_Cups\LBP6_Coffee_Cups.csproj", "{E8A07A98-D38C-43B4-9151-A5163E43F662}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extract_Digits", "Extract_Digits\Extract_Digits.csproj", "{F8EA8CF1-3ACD-48AC-87A4-E289F26754D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LBP7_Extract_Digits", "Extract_Digits\LBP7_Extract_Digits.csproj", "{F8EA8CF1-3ACD-48AC-87A4-E289F26754D8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Extract_Digits_then_Sum", "Extract_Digits_then_Sum\Extract_Digits_then_Sum.csproj", "{DF50BC4D-269A-4E29-9301-88273D353666}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LBP8_Extract_Digits_then_Sum", "Extract_Digits_then_Sum\LBP8_Extract_Digits_then_Sum.csproj", "{DF50BC4D-269A-4E29-9301-88273D353666}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum_of_Even_Digits", "Sum_of_Even_Digits\Sum_of_Even_Digits.csproj", "{237FCCA2-C134-437F-9D2F-B96A06375451}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LBP9_Sum_of_Even_Digits", "Sum_of_Even_Digits\LBP9_Sum_of_Even_Digits.csproj", "{237FCCA2-C134-437F-9D2F-B96A06375451}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_of_Prime_Digits", "Sum_of_Prime_Digits\Sum_of_Prime_Digits.csproj", "{57F81668-556C-42C9-A00E-196FF3384F75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LBP11_Sum_of_Odd_Digits", "Sum_of_Prime_Digits\LBP11_Sum_of_Odd_Digits.csproj", "{57F81668-556C-42C9-A00E-196FF3384F75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_of_Odd_Digits", "Sum_of_Odd_Digits\Sum_of_Odd_Digits.csproj", "{C9FF18F8-46E2-44FC-BDCD-636C15F2C8CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LBP10_Sum_of_Odd_Digits", "Sum_of_Odd_Digits\LBP10_Sum_of_Odd_Digits.csproj", "{C9FF18F8-46E2-44FC-BDCD-636C15F2C8CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
